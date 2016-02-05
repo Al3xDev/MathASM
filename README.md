@@ -5,4 +5,5 @@ General functions written in asm x64
   <li> float sin(int);
   <li> float cos(int);
   <li> void memcpy(void*,void*,int);
+  <li> void memset(void*,char,int);
 </ul>
