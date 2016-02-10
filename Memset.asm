@@ -1,4 +1,4 @@
-; void memset(void*,char,int);
+; void experimentalMEMSET(void*,char,int);
 
 experimentalMEMSET:
 
