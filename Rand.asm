@@ -1,4 +1,4 @@
-
+; extern "C" long experimentalRAND(unsigned int, unsigned int);
 	global experimentalRAND
 
 section .text
