@@ -9,4 +9,5 @@ General functions written in asm x64
   <li> void experimentalMEMSET(void*,char,int); /// faster then memset C for small memory block (100 - 20 000 bytes)
   <li> int experimentalRAND(unsigned int, unsigned int);
   <li> float experimentalFABS(float);
+  <li> float experimentalFloatToInt(float); /// very slow
 </ul>
